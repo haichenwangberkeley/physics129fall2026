@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="610" viewBox="0 0 1050 610" role="img" aria-labelledby="title desc">
+<title id="title">Dijet invariant masses from leading truth triplets</title>
+<desc id="desc">Separate histograms for the two highest-pT jets and the second and third highest-pT jets in 4040 leading truth triplets.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<text x="525.0" y="23" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Dijet invariant masses in leading truth triplets</text>
+<text x="298.5" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="bold">Jets 1 + 2</text>
+<line x1="78.00" y1="535.00" x2="519.00" y2="535.00" stroke="#dddddd"/>
+<text x="68.00" y="539.00" text-anchor="end" font-family="Arial, sans-serif" font-size="12">0</text>
+<line x1="78.00" y1="457.61" x2="519.00" y2="457.61" stroke="#dddddd"/>
+<text x="68.00" y="461.61" text-anchor="end" font-family="Arial, sans-serif" font-size="12">209</text>
+<line x1="78.00" y1="380.22" x2="519.00" y2="380.22" stroke="#dddddd"/>
+<text x="68.00" y="384.22" text-anchor="end" font-family="Arial, sans-serif" font-size="12">418</text>
+<line x1="78.00" y1="302.83" x2="519.00" y2="302.83" stroke="#dddddd"/>
+<text x="68.00" y="306.83" text-anchor="end" font-family="Arial, sans-serif" font-size="12">627</text>
+<line x1="78.00" y1="225.44" x2="519.00" y2="225.44" stroke="#dddddd"/>
+<text x="68.00" y="229.44" text-anchor="end" font-family="Arial, sans-serif" font-size="12">836</text>
+<line x1="78.00" y1="148.06" x2="519.00" y2="148.06" stroke="#dddddd"/>
+<text x="68.00" y="152.06" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1045</text>
+<line x1="78.00" y1="70.67" x2="519.00" y2="70.67" stroke="#dddddd"/>
+<text x="68.00" y="74.67" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1254</text>
+<line x1="78.00" y1="-6.72" x2="519.00" y2="-6.72" stroke="#dddddd"/>
+<text x="68.00" y="-2.72" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1463</text>
+<rect x="78.50" y="534.63" width="6.47" height="0.37" fill="#2a6fbb"/>
+<rect x="85.97" y="532.78" width="6.47" height="2.22" fill="#2a6fbb"/>
+<rect x="93.45" y="524.26" width="6.47" height="10.74" fill="#2a6fbb"/>
+<rect x="100.92" y="497.60" width="6.47" height="37.40" fill="#2a6fbb"/>
+<rect x="108.40" y="468.72" width="6.47" height="66.28" fill="#2a6fbb"/>
+<rect x="115.87" y="344.30" width="6.47" height="190.70" fill="#2a6fbb"/>
+<rect x="123.35" y="318.76" width="6.47" height="216.24" fill="#2a6fbb"/>
+<rect x="130.82" y="388.74" width="6.47" height="146.26" fill="#2a6fbb"/>
+<rect x="138.30" y="377.26" width="6.47" height="157.74" fill="#2a6fbb"/>
+<rect x="145.77" y="356.89" width="6.47" height="178.11" fill="#2a6fbb"/>
+<rect x="153.25" y="374.30" width="6.47" height="160.70" fill="#2a6fbb"/>
+<rect x="160.72" y="405.77" width="6.47" height="129.23" fill="#2a6fbb"/>
+<rect x="168.19" y="465.39" width="6.47" height="69.61" fill="#2a6fbb"/>
+<rect x="175.67" y="499.82" width="6.47" height="35.18" fill="#2a6fbb"/>
+<rect x="183.14" y="515.38" width="6.47" height="19.62" fill="#2a6fbb"/>
+<rect x="190.62" y="520.56" width="6.47" height="14.44" fill="#2a6fbb"/>
+<rect x="198.09" y="523.89" width="6.47" height="11.11" fill="#2a6fbb"/>
+<rect x="205.57" y="526.48" width="6.47" height="8.52" fill="#2a6fbb"/>
+<rect x="213.04" y="529.08" width="6.47" height="5.92" fill="#2a6fbb"/>
+<rect x="220.52" y="530.19" width="6.47" height="4.81" fill="#2a6fbb"/>
+<rect x="227.99" y="530.93" width="6.47" height="4.07" fill="#2a6fbb"/>
+<rect x="235.47" y="529.82" width="6.47" height="5.18" fill="#2a6fbb"/>
+<rect x="242.94" y="530.56" width="6.47" height="4.44" fill="#2a6fbb"/>
+<rect x="250.42" y="532.78" width="6.47" height="2.22" fill="#2a6fbb"/>
+<rect x="257.89" y="532.78" width="6.47" height="2.22" fill="#2a6fbb"/>
+<rect x="265.36" y="532.04" width="6.47" height="2.96" fill="#2a6fbb"/>
+<rect x="272.84" y="532.78" width="6.47" height="2.22" fill="#2a6fbb"/>
+<rect x="280.31" y="534.26" width="6.47" height="0.74" fill="#2a6fbb"/>
+<rect x="287.79" y="533.15" width="6.47" height="1.85" fill="#2a6fbb"/>
+<rect x="295.26" y="534.26" width="6.47" height="0.74" fill="#2a6fbb"/>
+<rect x="302.74" y="533.89" width="6.47" height="1.11" fill="#2a6fbb"/>
+<rect x="310.21" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="317.69" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="325.16" y="534.26" width="6.47" height="0.74" fill="#2a6fbb"/>
+<rect x="332.64" y="534.26" width="6.47" height="0.74" fill="#2a6fbb"/>
+<rect x="340.11" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="347.58" y="534.63" width="6.47" height="0.37" fill="#2a6fbb"/>
+<rect x="355.06" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="362.53" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="370.01" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="377.48" y="534.63" width="6.47" height="0.37" fill="#2a6fbb"/>
+<rect x="384.96" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="392.43" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="399.91" y="534.63" width="6.47" height="0.37" fill="#2a6fbb"/>
+<rect x="407.38" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="414.86" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="422.33" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="429.81" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="437.28" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="444.75" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="452.23" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="459.70" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="467.18" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="474.65" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="482.13" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="489.60" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="497.08" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="504.55" y="535.00" width="6.47" height="0.00" fill="#2a6fbb"/>
+<rect x="512.03" y="534.63" width="6.47" height="0.37" fill="#2a6fbb"/>
+<rect data-chart-frame="true" x="78.00" y="70.00" width="441.00" height="465.00" fill="none" stroke="#222"/>
+<line x1="78.00" y1="535.00" x2="78.00" y2="541.00" stroke="#222"/>
+<text x="78.00" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">20</text>
+<line x1="152.75" y1="535.00" x2="152.75" y2="541.00" stroke="#222"/>
+<text x="152.75" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">120</text>
+<line x1="227.49" y1="535.00" x2="227.49" y2="541.00" stroke="#222"/>
+<text x="227.49" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">220</text>
+<line x1="302.24" y1="535.00" x2="302.24" y2="541.00" stroke="#222"/>
+<text x="302.24" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">320</text>
+<line x1="376.98" y1="535.00" x2="376.98" y2="541.00" stroke="#222"/>
+<text x="376.98" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">420</text>
+<line x1="451.73" y1="535.00" x2="451.73" y2="541.00" stroke="#222"/>
+<text x="451.73" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">520</text>
+<line x1="144.95" y1="70" x2="144.95" y2="535" stroke="#2a6fbb" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="150.95" y="88" font-family="Arial, sans-serif" font-size="12" fill="#2a6fbb">Mean = 109.6 GeV</text>
+<line x1="141.88" y1="70" x2="141.88" y2="535" stroke="#2a6fbb" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="147.88" y="106" font-family="Arial, sans-serif" font-size="12" fill="#2a6fbb">Median = 105.5 GeV</text>
+<text x="298.5" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">Invariant mass [GeV]</text>
+<text x="33.0" y="302.5" text-anchor="middle" transform="rotate(-90 33.0 302.5)" font-family="Arial, sans-serif" font-size="14">Events</text>
+<text x="794.5" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="bold">Jets 2 + 3</text>
+<line x1="574.00" y1="535.00" x2="1015.00" y2="535.00" stroke="#dddddd"/>
+<text x="564.00" y="539.00" text-anchor="end" font-family="Arial, sans-serif" font-size="12">0</text>
+<line x1="574.00" y1="457.61" x2="1015.00" y2="457.61" stroke="#dddddd"/>
+<text x="564.00" y="461.61" text-anchor="end" font-family="Arial, sans-serif" font-size="12">209</text>
+<line x1="574.00" y1="380.22" x2="1015.00" y2="380.22" stroke="#dddddd"/>
+<text x="564.00" y="384.22" text-anchor="end" font-family="Arial, sans-serif" font-size="12">418</text>
+<line x1="574.00" y1="302.83" x2="1015.00" y2="302.83" stroke="#dddddd"/>
+<text x="564.00" y="306.83" text-anchor="end" font-family="Arial, sans-serif" font-size="12">627</text>
+<line x1="574.00" y1="225.44" x2="1015.00" y2="225.44" stroke="#dddddd"/>
+<text x="564.00" y="229.44" text-anchor="end" font-family="Arial, sans-serif" font-size="12">836</text>
+<line x1="574.00" y1="148.06" x2="1015.00" y2="148.06" stroke="#dddddd"/>
+<text x="564.00" y="152.06" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1045</text>
+<line x1="574.00" y1="70.67" x2="1015.00" y2="70.67" stroke="#dddddd"/>
+<text x="564.00" y="74.67" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1254</text>
+<line x1="574.00" y1="-6.72" x2="1015.00" y2="-6.72" stroke="#dddddd"/>
+<text x="564.00" y="-2.72" text-anchor="end" font-family="Arial, sans-serif" font-size="12">1463</text>
+<rect x="574.50" y="532.04" width="6.47" height="2.96" fill="#d1495b"/>
+<rect x="581.97" y="520.93" width="6.47" height="14.07" fill="#d1495b"/>
+<rect x="589.45" y="492.42" width="6.47" height="42.58" fill="#d1495b"/>
+<rect x="596.92" y="442.43" width="6.47" height="92.57" fill="#d1495b"/>
+<rect x="604.40" y="329.49" width="6.47" height="205.51" fill="#d1495b"/>
+<rect x="611.87" y="130.65" width="6.47" height="404.35" fill="#d1495b"/>
+<rect x="619.35" y="250.62" width="6.47" height="284.38" fill="#d1495b"/>
+<rect x="626.82" y="372.82" width="6.47" height="162.18" fill="#d1495b"/>
+<rect x="634.30" y="422.43" width="6.47" height="112.57" fill="#d1495b"/>
+<rect x="641.77" y="457.61" width="6.47" height="77.39" fill="#d1495b"/>
+<rect x="649.25" y="497.60" width="6.47" height="37.40" fill="#d1495b"/>
+<rect x="656.72" y="517.60" width="6.47" height="17.40" fill="#d1495b"/>
+<rect x="664.19" y="521.67" width="6.47" height="13.33" fill="#d1495b"/>
+<rect x="671.67" y="527.96" width="6.47" height="7.04" fill="#d1495b"/>
+<rect x="679.14" y="526.48" width="6.47" height="8.52" fill="#d1495b"/>
+<rect x="686.62" y="531.30" width="6.47" height="3.70" fill="#d1495b"/>
+<rect x="694.09" y="531.67" width="6.47" height="3.33" fill="#d1495b"/>
+<rect x="701.57" y="532.04" width="6.47" height="2.96" fill="#d1495b"/>
+<rect x="709.04" y="534.26" width="6.47" height="0.74" fill="#d1495b"/>
+<rect x="716.52" y="533.89" width="6.47" height="1.11" fill="#d1495b"/>
+<rect x="723.99" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="731.47" y="534.63" width="6.47" height="0.37" fill="#d1495b"/>
+<rect x="738.94" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="746.42" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="753.89" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="761.36" y="534.63" width="6.47" height="0.37" fill="#d1495b"/>
+<rect x="768.84" y="534.63" width="6.47" height="0.37" fill="#d1495b"/>
+<rect x="776.31" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="783.79" y="534.63" width="6.47" height="0.37" fill="#d1495b"/>
+<rect x="791.26" y="534.63" width="6.47" height="0.37" fill="#d1495b"/>
+<rect x="798.74" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="806.21" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="813.69" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="821.16" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="828.64" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="836.11" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="843.58" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="851.06" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="858.53" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="866.01" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="873.48" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="880.96" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="888.43" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="895.91" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="903.38" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="910.86" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="918.33" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="925.81" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="933.28" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="940.75" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="948.23" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="955.70" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="963.18" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="970.65" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="978.13" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="985.60" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="993.08" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="1000.55" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect x="1008.03" y="535.00" width="6.47" height="0.00" fill="#d1495b"/>
+<rect data-chart-frame="true" x="574.00" y="70.00" width="441.00" height="465.00" fill="none" stroke="#222"/>
+<line x1="574.00" y1="535.00" x2="574.00" y2="541.00" stroke="#222"/>
+<text x="574.00" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">20</text>
+<line x1="648.75" y1="535.00" x2="648.75" y2="541.00" stroke="#222"/>
+<text x="648.75" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">120</text>
+<line x1="723.49" y1="535.00" x2="723.49" y2="541.00" stroke="#222"/>
+<text x="723.49" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">220</text>
+<line x1="798.24" y1="535.00" x2="798.24" y2="541.00" stroke="#222"/>
+<text x="798.24" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">320</text>
+<line x1="872.98" y1="535.00" x2="872.98" y2="541.00" stroke="#222"/>
+<text x="872.98" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">420</text>
+<line x1="947.73" y1="535.00" x2="947.73" y2="541.00" stroke="#222"/>
+<text x="947.73" y="559.00" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">520</text>
+<line x1="621.87" y1="70" x2="621.87" y2="535" stroke="#d1495b" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="627.87" y="88" font-family="Arial, sans-serif" font-size="12" fill="#d1495b">Mean = 84.0 GeV</text>
+<line x1="618.53" y1="70" x2="618.53" y2="535" stroke="#d1495b" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="624.53" y="106" font-family="Arial, sans-serif" font-size="12" fill="#d1495b">Median = 79.6 GeV</text>
+<text x="794.5" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">Invariant mass [GeV]</text>
+<text x="529.0" y="302.5" text-anchor="middle" transform="rotate(-90 529.0 302.5)" font-family="Arial, sans-serif" font-size="14">Events</text>
+<text x="1015" y="563" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#444">4040 valid triplets; 5960 events without one</text>
+</svg>
